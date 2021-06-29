@@ -18,7 +18,7 @@ This project has two parts to it.
 	1. Sell
 	2. Buy
 
-#Database
+# Database
 	1. Cassandra - For saving all events and transactions
 	2. Default Sink - Elastic search (for search and relative search)
 	3. Caonfigured Sink - Any other sink we want to push data into so that it can be used for data modeling and client segmentation (DATAPLATFORM)
